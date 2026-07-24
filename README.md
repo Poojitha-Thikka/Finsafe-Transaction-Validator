@@ -1,6 +1,6 @@
 📌 Description
 
-The FinSafe Transaction System is a Java-based console application developed to simulate a secure digital banking and transaction management system. It allows users to manage financial transactions efficiently through a menu-driven interface while ensuring data accuracy and basic validation.
+The FinSafe Transaction Validator is a Java-based console application developed to simulate a secure digital banking and transaction management system. It allows users to manage financial transactions efficiently through a menu-driven interface while ensuring data accuracy and basic validation.
 
 The project demonstrates the implementation of Object-Oriented Programming (OOP) concepts, Java Collections, file handling, and exception handling to build a simple yet effective financial management application.
 
@@ -21,6 +21,7 @@ Object-Oriented Programming (OOP)
 Java Collections Framework
 File Handling
 Exception Handling
+
 🎯 Learning Outcomes
 Java Programming
 OOP Concepts
